@@ -1,4 +1,4 @@
-# python-week-2-assng
+# python-week-2-assng Questions
 
 ## Questions
 Create an empty list called my_list.*
